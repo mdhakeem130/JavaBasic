@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4aa37028-0d42-49ee-95f9-55513603db42" name="Changes" comment="My First git Program" />
+    <list default="true" id="4aa37028-0d42-49ee-95f9-55513603db42" name="Changes" comment="My First git Program">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/Goodmoorning/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges/Goodmoorning/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
