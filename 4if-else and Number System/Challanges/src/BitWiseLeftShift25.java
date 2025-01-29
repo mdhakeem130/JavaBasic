@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public interface BitWiseLeftShift25 {
+public class BitWiseLeftShift25 {
     public static void main(String[] args) {
      //1 create a program that shows bitwise AND of two number
         Scanner sc=new Scanner(System.in);

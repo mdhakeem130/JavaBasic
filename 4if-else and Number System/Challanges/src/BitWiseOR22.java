@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public interface BitWiseOR22 {
+public class BitWiseOR22 {
     public static void main(String[] args) {
      //1 create a program that shows bitwise AND of two number
         Scanner sc=new Scanner(System.in);
